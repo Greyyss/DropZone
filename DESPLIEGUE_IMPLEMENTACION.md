@@ -52,7 +52,7 @@ Conectar
 
 4. Cuando el sistema solicite la IP del servidor, ingresar:
 
-10.255.135.117
+10.255.135.40
 
 Para pruebas locales también se puede usar:
 
