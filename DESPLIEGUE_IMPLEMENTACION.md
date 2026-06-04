@@ -20,7 +20,7 @@ Network ID:
 
 IP ZeroTier del servidor:
 
-10.255.135.117
+10.255.135.40
 
 Puerto utilizado:
 
